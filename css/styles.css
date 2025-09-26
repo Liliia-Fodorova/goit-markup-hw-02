@@ -61,10 +61,10 @@
     line-height: 1.5;
     letter-spacing: 0.04;
     background-color: #404BBF;
-    color: #ffffff;
+}
+.text-button{
     
-    }
-
+}
 .features-list-title{
     font-weight: 500 ;
     font-size: 20px;
@@ -122,8 +122,8 @@ a{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
     background-color: #ffffff;
-    text-transform: capitalize
 }
 .page-footer{
     background-color: #2e2f42;
