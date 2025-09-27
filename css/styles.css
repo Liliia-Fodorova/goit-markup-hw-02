@@ -46,7 +46,7 @@
     color: #404bbf;
     font-style: normal;
 }
-.address-contacts{
+.contacts{
     font-style: normal;
 }
 
@@ -129,7 +129,7 @@ a{
  text-decoration: none; 
 }
 
-.our-portfolio{
+.portfolio{
     font-weight: 700 ;
     font-size:  36px;
     line-height:  1.11;
